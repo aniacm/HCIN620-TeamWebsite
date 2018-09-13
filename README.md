@@ -15,7 +15,7 @@ Put some problem we meet here
 The general direction for solution
 
 
-### Markdown
+```### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -37,5 +37,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
