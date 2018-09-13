@@ -1,17 +1,13 @@
-## Welcome！
+Welcome！
 
-### Team project name
+## Week 3 - Milestone 1 - Problems
 
-Our project name
+We are going to choice a topic from four possible ideas.
 
-### Customer
+### 1. Food Wastage
 
-What users we focus on?
+### 2. Usability fix of RIT mobile
 
-### Problem
+### 3. Airline Transportaion
 
-Put some problem we meet here
-
-### Solution
-
-The general direction for solution
+### 4. Event Post
