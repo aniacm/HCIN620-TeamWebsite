@@ -38,7 +38,7 @@ Solution:
 
 ### 3. Airline Transportaion
 
-When taking a long trip, the precise information of airline is one of the most significant thing people would like to know.
+When taking a long trip, the precise information of airline is one of the most significant thing people would like to know. However, even some of the customer service of the airplane company do not know the exact information and might misguide customers.
 
 The keypoint information:
 1. Fast entrance which can apply online
