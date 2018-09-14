@@ -46,7 +46,13 @@ The keypoint information:
 3. Luggage weight of different flight
 
 ### 4. Event Post
+1. Mainly focus on students who have need to group people in some specific events.
+2. Although there also have some app to inform students like GroupOn or Facebook, the information is too many to be find precisely and on time.
+3. Every post has events, time, location, joined people and details.
+4. People are allowed to set all of those things, set number of people in that event, accept or reject others’ requirement.
+5. Categories helped people to find events they are interested in. And in every category they can filter events by sub-category, distance and time.
+6. People can rate and label others as well as block someone if they feel unhappy with them. People who have a very low rate can be warned and restricted in joining events.
 
-
+![eventpost](eventpost.jpeg)
 
 ## Solutions
