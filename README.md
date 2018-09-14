@@ -40,7 +40,10 @@ Solution:
 
 When taking a long trip, the precise information of airline is one of the most significant thing people would like to know.
 
-1. Fast entrance
+The keypoint information:
+1. Fast entrance which can apply online
+2. Terminal information (eg. Transfer from different terminal)
+3. Luggage weight of different flight
 
 ### 4. Event Post
 
