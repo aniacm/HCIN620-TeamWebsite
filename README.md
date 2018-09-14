@@ -60,7 +60,7 @@ The keypoint information:
 
 ## Solutions
 
-After discussion, we agree to start to focus on Food Wastage as Plan A, and if the project doesn't go well, we will swithch to the Airline Transportaion as Plan B.
+After discussion, we agree to start to focus on Food Wastage as Plan A, and if the project doesn't go well, we will switch to the Airline Transportaion as Plan B.
 
 
 
