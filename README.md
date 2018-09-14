@@ -1,7 +1,10 @@
 Welcome！
 # General Information of Project
-### Project Name - Not yet
-### Stakeholders - Not yet
+### Project Name
+Food Wastage (Current)
+### Stakeholders
+1. People working in Dinning Service
+2. People in need of food (eg. RIT Foodshare on FB)
 
 # Week 3 - Milestone 1
 
@@ -57,9 +60,7 @@ The keypoint information:
 
 ## Solutions
 
-
-
-
+After discussion, we agree to start to focus on Food Wastage as Plan A, and if the project doesn't go well, we will swithch to the Airline Transportaion as Plan B.
 
 
 
