@@ -7,7 +7,7 @@ Welcome！
 
 ## Problems
 
-We are going to choice a topic from four possible ideas.
+We are going to choose a topic from four possible ideas.
 
 ### 1. Food Wastage
 
