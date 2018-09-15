@@ -1,42 +1,51 @@
 Welcome！
 # General Information of Project
 ### Project Name
-Food Wastage (Current)
+Food Wastage (PLAN A)
+
+### Description
+We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the extra food to people who need it.
+The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
+
+Potential Problems:
+1. The type and quality of leftover food;
+2. Distribution spot and transportation;
+3. Decreasing number of students buying food from the cafe; 
+4. Limitation on amount of free food for one person
+
 ### Stakeholders
-1. People working in Dinning Service
-2. People in need of food (eg. RIT Foodshare on FB)
+1. Staffs and managers working in Dinning Service
+2. People in need of food (eg. followers of RIT Foodshare on FB)
 
 # Week 3 - Milestone 1
 
-## Problems
+### Problems
 
-We are going to choose a topic from four possible ideas.
+We lack of the information to process our project.
 
-### PLAN A. Food Wastage
+### Solution
 
-We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the extra food to people who need it.
+1. Do the contextual inquiry
+Observe the staff cooks when they deal with the leftover food.
+Interview the cafe managers about their willingness 
+Interview the people at RIT Foodshare about the process of collecting and distributing the food.
 
-The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
+2. Evaluate the feasibility of the project 
+Analyze whether the stakeholders are available to do more research based on the result of inquiry.
 
-The stakeholders: 1. People working in Dinning Service  2. People in need of food (eg. RIT Foodshare on FB)
+3. Decide the topics we are going to work on
+Switch to the Airline Transportaion as Plan B if the project doesn't go well.
 
-The keypoint of the project: 
-1. Avoid Misuse
-2. Food Quality
-3. Personal Verifiction ( NGO/ QR-code/ Passport/ Driver Lisence )
+## PLAN B - Airline Transportaion
 
-### PLAN B. Airline Transportaion
-
-When taking a long trip, the precise information of airline is one of the most significant thing people would like to know. However, even some of the customer service of the airplane company do not know the exact information and might misguide customers.
+When taking a long trip, the precise information of airline is one of the most significant thing people would like to know. However, even some of the customer service of the airplane companies do not know the exact information and might misguide customers.
 
 The keypoint information:
 1. Fast entrance which can apply online
 2. Terminal information (eg. Transfer from different terminal)
 3. Luggage weight of different flight
 
-## Solutions
 
-After discussion, we agree to start to focus on Food Wastage as Plan A, and if the project doesn't go well, we will switch to the Airline Transportaion as Plan B.
 
 
 
