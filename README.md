@@ -5,17 +5,16 @@ We found that everyday there is a huge food wastage on campus dinning service, s
 
 The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
+### Stakeholders
+1. Staffs and managers working in Dinning Service
+2. People in need of food (eg. followers of RIT Foodshare on FB)
+
 ### Potential Problems
 1. The type and quality of leftover food;
 2. Distribution time and spots;
 3. Transportation routes and storage;
 4. Less students buying food from the cafe; 
 5. Limitation on amount of free food for one person
-
-
-### Stakeholders
-1. Staffs and managers working in Dinning Service
-2. People in need of food (eg. followers of RIT Foodshare on FB)
 
 # Week 3 - Milestone 1
 
