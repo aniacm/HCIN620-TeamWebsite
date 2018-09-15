@@ -7,14 +7,14 @@ The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 ### Stakeholders
 1. Staffs and managers working in Dinning Service
-2. People in need of food (eg. followers of RIT Foodshare on FB)
+2. People in need of food (eg. NGOs or people who cannot afford the food)
 
 ### Potential Problems
 1. The type and quality of leftover food;
 2. Distribution time and spots;
 3. Transportation routes and storage;
-4. Less students buying food from the cafe; 
-5. Limitation on amount of free food for one person
+4. If students came to know that the product they are buying is going to be available for free in half or one hour, they may go directly to the foodshare services instead of paying for it in the cafe; 
+5. Amount Restriction of free food for one person
 
 # Week 3 - Milestone 1
 
