@@ -1,8 +1,4 @@
-Welcome！
-
-# General Information of Project
-### Project Name
-Food Wastage (PLAN A)
+# FoodShare
 
 ### Description
 We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the leftover food to people who need it.
