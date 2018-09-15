@@ -1,12 +1,12 @@
 # FoodShare
 
 ### Description
-We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the leftover food to people who need it.
+We found that everyday there is a huge food wastage on campus dining service, so we hope that we can reduce that wastage and share the leftover food to people who need it.
 
 The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 ### Stakeholders
-1. Staffs and managers working in Dinning Service
+1. Staffs and managers working in Dining Service
 2. People in need of food (eg. NGOs or people who cannot afford the food)
 
 ### Potential Problems
@@ -36,7 +36,7 @@ Analyze whether the stakeholders are available to do more research based on the 
 
 3. Decide the topics we are going to work on
 
-Switch to the Airline Transportaion as Plan B if Plan A doesn't go well.
+Switch to the Airline Transportation as Plan B if Plan A doesn't go well.
 
 ### PLAN B - Airline Transportation
 
