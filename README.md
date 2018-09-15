@@ -19,11 +19,11 @@ The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 # Week 3 - Milestone 1
 
-### Problems
+## Problems
 
 Lack of the basic information about restaurants and their workflow.
 
-### Solution
+## Solution
 
 1. Do the contextual inquiry
 
@@ -39,7 +39,7 @@ Analyze whether the stakeholders are available to do more research based on the 
 
 Switch to the Airline Transportaion as Plan B if Plan A doesn't go well.
 
-## PLAN B - Airline Transportation
+### PLAN B - Airline Transportation
 
 When taking a long trip, the precise information of transportation is one of the most significant thing people would like to know. However, even some of the customer service of the airplane companies do not know the exact information and might misguide customers.
 
