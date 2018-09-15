@@ -18,7 +18,7 @@ The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 # Week 3 - Milestone 1
 
-## Current Problem
+## Problem
 
 Lack of the basic information about restaurants and their workflow.
 
