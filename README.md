@@ -1,4 +1,6 @@
 Welcome！
+———— Xinyue Zhang, Shimei Qiu, Vinita Tibdewal and Yeting Bao
+
 # General Information of Project
 ### Project Name
 Food Wastage (PLAN A)
