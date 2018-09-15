@@ -4,14 +4,17 @@ Welcome！
 Food Wastage (PLAN A)
 
 ### Description
-We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the extra food to people who need it.
+We found that everyday there is a huge food wastage on campus dinning service, so we hope that we can reduce that wastage and share the leftover food to people who need it.
+
 The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 Potential Problems:
 1. The type and quality of leftover food;
-2. Distribution spot and transportation;
-3. Decreasing number of students buying food from the cafe; 
-4. Limitation on amount of free food for one person
+2. Distribution time and spots;
+3. Transportation routes and storage;
+4. Less students buying food from the cafe; 
+5. Limitation on amount of free food for one person
+
 
 ### Stakeholders
 1. Staffs and managers working in Dinning Service
@@ -21,24 +24,24 @@ Potential Problems:
 
 ### Problems
 
-We lack of the information to process our project.
+Lack of the basic information about restaurants and their workflow.
 
 ### Solution
 
 1. Do the contextual inquiry
 Observe the staff cooks when they deal with the leftover food.
-Interview the cafe managers about their willingness 
-Interview the people at RIT Foodshare about the process of collecting and distributing the food.
+Interview the cafe managers about their willingness. 
+Interview the people at RIT Foodshare about the process of collecting and distributing food.
 
 2. Evaluate the feasibility of the project 
 Analyze whether the stakeholders are available to do more research based on the result of inquiry.
 
 3. Decide the topics we are going to work on
-Switch to the Airline Transportaion as Plan B if the project doesn't go well.
+Switch to the Airline Transportaion as Plan B if Plan A doesn't go well.
 
-## PLAN B - Airline Transportaion
+## PLAN B - Airline Transportation
 
-When taking a long trip, the precise information of airline is one of the most significant thing people would like to know. However, even some of the customer service of the airplane companies do not know the exact information and might misguide customers.
+When taking a long trip, the precise information of transportation is one of the most significant thing people would like to know. However, even some of the customer service of the airplane companies do not know the exact information and might misguide customers.
 
 The keypoint information:
 1. Fast entrance which can apply online
