@@ -40,9 +40,13 @@ We have decide to focus on Food Share to be our project. And we are going to do 
 # Week 5 - Milestone 2 Contextual Inquiry
 
 ## Individual Interview
+
 1 manager from RIT food share
+
 3 volunteers from Recovery Rochester
+
 3 staff/managers from restaurant
+
 1 staff from Church
 
 ## Interpretation
