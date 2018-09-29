@@ -41,7 +41,7 @@ We have decide to focus on Food Share to be our project. And we are going to do 
 
 ## Individual Interview
 
-1 manager from RIT food share
+2 staff/manager from RIT food share
 
 3 volunteers from Recovery Rochester
 
