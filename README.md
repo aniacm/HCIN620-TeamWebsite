@@ -7,20 +7,18 @@ The flow of Food Share: Producing -> Collecting -> Transport -> Distribution
 
 ### Stakeholders
 1. Staffs and managers working in Dining Service
-2. People in need of food (eg. NGOs or people who cannot afford the food)
-
-### Potential Problems
-1. The type and quality of leftover food;
-2. Distribution time and spots;
-3. Transportation routes and storage;
-4. If students came to know that the product they are buying is going to be available for free in half or one hour, they may go directly to the foodshare services instead of paying for it in the cafe; 
-5. Amount Restriction of free food for one person
+2. People in need of food (eg. Churches, NGOs or people who cannot afford the food)
+3. Volunteers who collect and deliver the food
 
 # Week 3 - Milestone 1
 
 ## Problem
 
-Lack of the basic information about restaurants and their workflow.
+Lack of the basic information about restaurants and their workflow:
+1. The type and quality of leftover food;
+2. Distribution time and spots;
+3. Transportation routes and storage;
+4. How volunteers communicate with each other and staff of cafe
 
 ## Solution
 
@@ -28,7 +26,7 @@ Lack of the basic information about restaurants and their workflow.
 
 Observe the staff cooks when they deal with the leftover food;
 Interview the cafe managers about their willingness;
-Interview the people at RIT Foodshare about the process of collecting and distributing food.
+Interview the people at RIT Foodshare and Recovery Rochester about the process of collecting and distributing food.
 
 2. Evaluate the feasibility of the project 
 
@@ -37,17 +35,11 @@ Analyze whether the stakeholders are available to do more research based on the 
 3. Decide the topics we are going to work on
 
 Switch to the Airline Transportation as Plan B if Plan A doesn't go well.
+(PLAN B - Airline Transportation)
 
-### PLAN B - Airline Transportation
+# Week 5 - Milestone 2
 
-When taking a long trip, the precise information of transportation is one of the most significant thing people would like to know. However, even some of the customer service of the airplane companies do not know the exact information and might misguide customers.
-
-The keypoint information:
-1. Fast entrance which can apply online
-2. Terminal information (eg. Transfer from different terminal)
-3. Luggage weight of different flight
-
-
+## 
 
 
 
