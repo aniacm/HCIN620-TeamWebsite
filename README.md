@@ -35,12 +35,19 @@ Switch to the Airline Transportation as Plan B if Plan A doesn't go well.
 (PLAN B - Airline Transportation)
 
 ## Conclusion
-We have decide to focus on Food Share to be our project. And we are going to do more interview for volunteers of Recovery Rochester and managers of cafes.
+We have decide to focus on Food Share to be our project. And we are going to do more interviews for volunteers of Recovery Rochester and managers of cafes in order to find out the design requirements.
 
 # Week 5 - Milestone 2 Contextual Inquiry
 
 ## Individual Interview
+1 manager from RIT food share
+3 volunteers from Recovery Rochester
+3 staff/managers from restaurant
+1 staff from Church
 
+## Interpretation
+
+## User profile
 
 
 
