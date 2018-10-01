@@ -51,7 +51,19 @@ We have decide to focus on Food Share to be our project. And we are going to do 
 
 ## Interpretation
 
-## User profile
+## Affinity diagram
+
+![avatar](/Affinity_diagram/1.JPG)
+![avatar](/Affinity_diagram/2.JPG)
+![avatar](/Affinity_diagram/3.JPG)
+![avatar](/Affinity_diagram/4.JPG)
+![avatar](/Affinity_diagram/5.JPG)
+![avatar](/Affinity_diagram/6.JPG)
+![avatar](/Affinity_diagram/7.JPG)
+![avatar](/Affinity_diagram/8.JPG)
+![avatar](/Affinity_diagram/9.JPG)
+![avatar](/Affinity_diagram/10.JPG)
+![avatar](/Affinity_diagram/11.JPG)
 
 
 
